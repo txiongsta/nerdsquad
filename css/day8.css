@@ -11,6 +11,8 @@ header{
 .day8 h1{
     text-align:left;
     padding-top: 30px;
+    margin:0px;
+    padding-left:20px;
 }
 
 .one{
@@ -36,7 +38,7 @@ header{
 }    
 
 .sub-boxes{
-    height: 400px;
+    height: 420px;
     width: 250px;
     background-color: #00F010;
     float: left;
@@ -51,6 +53,7 @@ header{
 
 .sub-boxes p{
 text-align: center;
+padding:0px 10px 10px 10px;
 }
 
 .five {
@@ -141,8 +144,30 @@ label{
 }
 
 .i{
-    font-size: 50px;
-    padding:10% 40%;
-    color: white;
+    font-size:50px;
+    height:50px;
+    width:50px;
+    color:white;
+    margin:0px auto;
+    padding-top:50px;
 }
 
+.hp p{
+    text-align:center;    
+}
+
+.i2{
+    font-size:50px;
+    height:50px;
+    width:50px;
+    color:white;
+    margin:0px auto;    
+}
+
+.i3{
+    font-size:50px;
+    height:50px;
+    width:50px;
+    color:white;
+    margin:0px auto;    
+}
