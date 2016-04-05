@@ -1,0 +1,42 @@
+.one{
+    height: 400px;
+    width: 100%;
+    background-color: green;
+}
+
+.two{
+    height: 100%;
+    width: 900px;
+    background-color: #2EFEF7;
+    
+    margin: 0px auto;
+}    
+
+.three{
+    height: 100%;
+    width: 250px;
+    background-color: #FF00EF;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+
+.four{
+    height: 100%;
+    width: 250px;
+    background-color: #FF00EF;
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+
+.five{
+    height: 100%;
+    width: 250px;
+    background-color: #FF00EF;
+    float: left;
+    margin: 0px 20px 0px 20px;
+
+}
+
+.four{
+    text-align: center;    
+}
