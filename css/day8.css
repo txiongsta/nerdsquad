@@ -57,7 +57,7 @@ padding:0px 10px 10px 10px;
 }
 
 .five {
-    height: 300px;
+    height: 100%;
     width: 100%;
     background-color: #00F010;
 }
@@ -118,7 +118,8 @@ img{
 }
 
 .img{
-    padding:5px 0px 0px 40px;
+    padding:0px 0px 75px 50px; 
+    margin: 0px;
 }
 
 label{
@@ -138,6 +139,7 @@ label{
 .five h1{
     margin:0px;
     text-align: center;
+    
 }
 
 .five p{
@@ -154,7 +156,8 @@ label{
 }
 
 .hp p{
-    text-align:center;    
+    text-align:center;  
+    
 }
 
 .i2{
@@ -167,4 +170,10 @@ label{
 
 body{
     margin:0px;    
+}
+
+.hp{
+    height: 100%;
+    width: 40%;
+    margin: auto;
 }
