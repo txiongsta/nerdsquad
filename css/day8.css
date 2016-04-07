@@ -48,19 +48,25 @@ header{
 }
 
 .sub-boxes h1{
- text-align: center;
- border-radius: 25px;
+     text-align: center;
+     border-radius: 25px;
+     font-family: 'Pacifico', cursive;
+
 }
 
 .sub-boxes p{
-text-align: center;
-padding:0px 10px 10px 10px;
+    text-align: center;
+    padding:0px 10px 10px 10px;
+    font-family: 'Pacifico', cursive;
+
 }
 
 .five {
     height: 100%;
     width: 100%;
     background-color: #00F010;
+    font-family: 'Pacifico', cursive;
+
 }
 
 .box7{
@@ -77,6 +83,8 @@ padding:0px 10px 10px 10px;
     text-align: center;
     padding: 40px 0px;
     margin:0px;
+    font-family: 'Pacifico', cursive;
+
 }    
 
 #form{
@@ -158,7 +166,7 @@ label{
 
 .hp p{
     text-align:center;  
-    
+    font-family: 'Pacifico', cursive;   
 }
 
 .i2{
