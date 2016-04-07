@@ -13,6 +13,7 @@ header{
     padding-top: 30px;
     margin:0px;
     padding-left:20px;
+    font-family: 'Pacifico', cursive;
 }
 
 .one{
@@ -177,3 +178,9 @@ body{
     width: 40%;
     margin: auto;
 }
+
+.footer h2{
+    text-align: center;
+    color: white;
+}
+
