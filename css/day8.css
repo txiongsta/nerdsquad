@@ -132,7 +132,7 @@ img{
 
 .img{
     padding:0px 0px 75px 50px; 
-    margin: 0px;
+    margin: 0px auto;
 }
 
 label{
@@ -191,3 +191,6 @@ body{
     padding-top: 50px;
 }
 
+div h1:hover{
+    color: yellow;
+}
